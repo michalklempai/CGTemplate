@@ -34,5 +34,3 @@ It contains support for:
 - Light class (ambient, point, directional, omnidirectional, hdr image light source, etc.)
 - Material properties (like bump, transparency, shininess, etc.)
 - Math constants (PI, Euler number, etc.)
--  
-
